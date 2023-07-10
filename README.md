@@ -1,2 +1,0 @@
-# Sync-IGDTUW
-connecting students
