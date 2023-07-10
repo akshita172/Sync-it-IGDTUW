@@ -1,0 +1,79 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "@syncfusion/ej2-base": "^19.2.44",
+    "@syncfusion/ej2-react-buttons": "^19.2.44",
+    "@syncfusion/ej2-react-notifications": "^19.2.44",
+    "@syncfusion/ej2-react-schedule": "^19.2.44",
+    "@testing-library/jest-dom": "^5.13.0",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.1",
+    "dotenv": "^16.3.1",
+    "jwt-decode": "^3.1.2",
+    "mdbreact": "^5.0.1",
+    "moment": "^2.29.1",
+    "nodemailer-react": "^1.0.2",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "react-file-base64": "^1.0.3",
+    "react-flash-message": "^1.0.7",
+    "react-google-button": "^0.7.2",
+    "react-google-login": "^5.2.2",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^5.0.1",
+    "react-textarea-autosize": "^8.3.3",
+    "react-toastify": "^7.0.4",
+    "react-tooltip": "^4.2.21",
+    "react-uuid": "^1.0.2",
+    "reactstrap": "^8.9.0",
+    "redux": "^4.1.0",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "simple-peer": "^9.11.0",
+    "socket.io-client": "^4.1.2",
+    "speech-to-text": "^2.9.1",
+    "sweetalert": "^2.1.2",
+    "uuid": "^8.3.2",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "start:development": "env-cmd -f .env.development npm-run-all -p start",
+    "build:production": "env-cmd -f .env.production && react-scripts build"
+  },
+  "@babel/plugin-proposal-private-property-in-object": {
+
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
