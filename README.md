@@ -1,5 +1,5 @@
 # Sync IGDTUW
-connecting students
+building a bridge, with the promise to connect
 
 ## Features - ## 
 
