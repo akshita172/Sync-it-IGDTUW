@@ -1,4 +1,4 @@
-# Sync-it-IGDTUW
+# Sync IGDTUW
 connecting students
 
 ## Features - ## 
