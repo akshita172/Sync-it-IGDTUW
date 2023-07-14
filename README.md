@@ -7,7 +7,7 @@ connecting students
 2. Chat with them in the video meet.
 3. Screen Share, toggle audio/video.
 4. Whiteboard - realtime drawing together.
-5. Invite participants - enter their email id and an email is sent to them via ConnectX
+5. Invite participants - enter their email id and an email is sent to them 
 6. Schedule a meeting for later
     - this creates a special meet room in chats tab.
     - adds an event for specified date and time in calendar.
@@ -17,14 +17,14 @@ connecting students
     - Chat of this meet is visible to invited participants irrespective of whether they join the meet or not.
     - participants invited via other means can access chat only during the meet.
     - join meet icon appears 5 min prior to the scheduled meet time.
-8. General purpose chat room in Chats Tab .
+8. General purpose chat room in Chats Tab.
 9. Voice to text messaging to enable hands free writing.
 10. File Sharing.
 11. View all files together in Files tab 
     - advantage preview files without downloading and download only if you want to.
 12. As an added bonus use Calendar as personalized To Do List .
     - Add/Update/Delete any task
-    - ConnectX will make sure you don't forget the task by sending a reminder mail 15 mins prior to the event
+    - It will make sure you don't forget the task by sending a reminder mail 15 mins prior to the event
 13. Manual and Google Authentication
     
 
